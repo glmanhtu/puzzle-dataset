@@ -1,11 +1,22 @@
-# Puzzle Dataset
+# Repository Closure Notice
 
-This repository contains the images of the 3 commonly-used datasets in the domain of Puzzle reconstruction: The Cho[1], BGU[2], and McGill[3]
+**ATTENTION:** This repository is now closed.
 
-Since there is no official page to download these image, I made this repository to prevent the vanishing of these images. All the credits belongs to the creators of these dataset.
+After careful consideration, we have decided to close this repository due to the absence of a proper license to host the included datasets. Without a clear license, we are unable to grant permissions or define the terms under which the datasets can be used.
 
-[1] T. S. Cho, S. Avidan, and W. T. Freeman. A probabilistic image jigsaw puzzle solver. In Proc. CVPR, pages 183–190, 2010. 9, 10, 11, 12, 13, 14, 15
+## Why is the repository closed?
 
-[2] A. Olmos and F. A. A. Kingdom. McGill calibrated colour image database. http://tabby.vision.mcgill.ca., 2005
+This repository originally intended to provide access to valuable puzzle datasets; however, it lacked a specified license. A license is crucial for outlining the permissions and restrictions regarding the use, distribution, and modification of the datasets.
 
-[3] Pomeranz, Dolev, Michal Shemesh, and Ohad Ben-Shahar. "A fully automated greedy square jigsaw puzzle solver." CVPR 2011. IEEE, 2011.
+## What does this mean for users?
+
+As the repository is now closed, you are no longer authorized to use, distribute, or modify the datasets found here. If you have downloaded any data from this repository, we strongly advise you to delete it immediately, as unauthorized use may infringe upon intellectual property rights.
+
+## How can I obtain the datasets legally?
+
+If you are interested in obtaining the datasets legally, please reach out to the original data source or creator to inquire about proper licensing and usage terms. Make sure to adhere to any terms and conditions set by the data provider.
+
+We appreciate your understanding in this matter.
+
+Thank you.
+
